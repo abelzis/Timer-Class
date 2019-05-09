@@ -33,6 +33,6 @@ int main()
 }
 ```
 
-**Output**: [result](https://i.gyazo.com/924485962d5a8ae1e51e5a0a938eb967.png)
+**Output**: ![result](https://i.gyazo.com/924485962d5a8ae1e51e5a0a938eb967.png)
 
 Simple structure to use. Uses `<chrono>` library for high resolution clocking (up to nanoseconds).
