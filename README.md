@@ -8,7 +8,7 @@ Download the header, place it in your C++ program folder, include it with #inclu
 Timer t;      //starts timer
 t.pause()     //pauses timer
 t.resume()    //resumes timer
-t.elapsed()   //prints time in seconds
+t.elapsed()   //returns time in seconds
 t.reset()     //resets timer
 ```
 
